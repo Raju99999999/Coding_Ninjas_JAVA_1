@@ -1,2 +1,2 @@
 # Coding_Ninjas_JAVA_1
-this is my java programs repository  
+this is my Java programs repository  
